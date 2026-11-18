@@ -1,0 +1,12 @@
+=== FATURA KAYDI | 2026-05-31 16:23:28 ===
+Kargo İşlemi: ayşe -> berat
+Kargo Başarıyla Kaydedildi!
+
+Tür: Hızlı Teslimat (1 İş Günü) + Kırılacak Eşya Paketi
+Bölge: Yurt Dışı Teslimat
+Taşıma Aracı: Kargo Uçağı (Hava Yolu)
+İlişik Evrak: Gümrük Beyannamesi
+--------------------------
+Toplam Tutar: 1130.0 TL
+================================================
+
